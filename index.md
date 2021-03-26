@@ -18,7 +18,7 @@
 <input id = "email" type = "text" name = "Email"><br>
 
 <label for = "usermessage"> Your Message: </label>
-<textarea id = "usermessage" type = "text" name = "Your message"> </textarea> <br>
+<input id = "usermessage" type = "text" name = "Your message"> </textarea> <br>
 
 <button type = "submit"> Submit </button>
 </form> 
