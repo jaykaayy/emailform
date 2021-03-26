@@ -11,14 +11,14 @@
 
 
  <form action="#" method="POST">
-<label for ="name"> Name: </label>
-<input id = "name" type = "text" name = "Name"> <br>
+<p><label for ="name"> Name: </label>
+<input id = "name" type = "text" name = "Name"> </p>
 
-<label for = "email"> Email: </label>
-<input id = "email" type = "text" name = "Email"><br>
+<p><label for = "email"> Email: </label>
+<input id = "email" type = "text" name = "Email"></p>
 
-<label for = "usermessage"> Your Message: </label>
-<input id = "usermessage" type = "text" name = "Your message"> <br>
+<p><label for = "usermessage"> Your Message: </label>
+<input id = "usermessage" type = "text" name = "Your message"> </p>
 
 <button type = "submit"> Submit </button>
 </form> 
