@@ -19,7 +19,7 @@
 <input id = "name" type = "text" name = "Name">
 
 <label for = "email"> Email: </label>
-<input id = "email type = "tedxt" name = "Email">
+<input id = "email type = "text" name = "Email">
 
 <label for = "usermessage"> Your Message: </label>
 <textarea id = "usermessage" type = "text" name = "Your message"> </textarea>
@@ -27,4 +27,4 @@
 <button type = "submit"> Submit </button>
 </form> 
 </div>
-  </main>
+</main>
