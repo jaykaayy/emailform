@@ -9,13 +9,13 @@
   <main>
 
 
-
+<div>
  <form action="#" method="POST">
 <label for ="name"> Name: </label>
 <input id = "name" type = "text" name = "Name"> <br>
 
 <label for = "email"> Email: </label>
-<input id = "email type = "text" name = "Email"><br>
+<input id = "email type" = "text" name = "Email"><br>
 
 <label for = "usermessage"> Your Message: </label>
 <textarea id = "usermessage" type = "text" name = "Your message"> </textarea> <br>
